@@ -2,6 +2,10 @@
 
 Aplicacion web creada con React y Vite para organizar postulaciones laborales durante una busqueda de empleo.
 
+## Deploy
+
+https://polite-lolly-65a77b.netlify.app/
+
 ## Descripcion
 
 Job Application Tracker es una herramienta personal para registrar empresas, cargos, ubicaciones, enlaces, estados y notas de cada postulacion. El proyecto esta pensado como una pieza de portafolio para un Junior Full Stack Developer, con una interfaz moderna, responsive y enfocada en una necesidad real.
